@@ -9662,4 +9662,14 @@ h3 {
   box-sizing: border-box;
 }
 
+.card-body {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.yellow {
+  background-color: yellow;
+  height: 220px;
+}
+
 /*# sourceMappingURL=main.css.map */
